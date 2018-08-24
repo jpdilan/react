@@ -92,7 +92,7 @@ import {
   Callback,
   ShouldCapture,
   DidCapture,
-} from 'shared/ReactTypeOfSideEffect';
+} from 'shared/ReactSideEffectTags';
 import {ClassComponent, ClassComponentLazy} from 'shared/ReactWorkTags';
 
 import {
